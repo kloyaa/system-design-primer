@@ -1790,21 +1790,6 @@ Handy metrics based on numbers above:
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
-#### Source(s) and further reading
-
-Looking to add a blog?  To avoid duplicating work, consider adding your company blog to the following repo:
-
-* [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-
-## Under development
-
-Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
-
-* Distributed computing with MapReduce
-* Consistent hashing
-* Scatter gather
-* [Contribute](#contributing)
-
 ## Credits
 
 Credits and sources are provided throughout this repo.
